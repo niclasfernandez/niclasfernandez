@@ -1,4 +1,4 @@
-Full-stack developer. I love hard challenges 🤓
+Full-stack developer 👨‍💻 I love hard challenges 🤓
 Typescript rocks!!! 💻
 React geek ⚛️
 Please call me Data scientist 👨‍🔬
